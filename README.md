@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Mobola89
-- 👀 I’m interested in anything data
-- 🌱 I’m currently learning Data Science and ML
+- 👀 I’m interested in anything data/cybersecurity
 - 📫 How to reach me @onasanya1232@gmail.com
 
 
