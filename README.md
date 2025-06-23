@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Mobola89
-- 👀 I’m interested in anything data/cybersecurity
+- 👋 Hi, I’m Mobola Onasanya
 - 📫 How to reach me @onasanya1232@gmail.com
 
 
